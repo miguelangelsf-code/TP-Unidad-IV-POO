@@ -1,9 +1,9 @@
 # Trabajo Práctico – Unidad IV: Programación Orientada a Objetos (POO)
 
-- **Nombre y apellido:** Miguel Ángel Salinas Fernández
+- **Alumno:** Miguel Ángel Salinas Fernández
 - **Asignatura:** INF-195 – Optativo I (Python Lenguaje I)
-- **Unidad:** IV – Programación Orientada a Objetos
-- **Lenguaje de programación:** Python 3
+- **Institución:** Universidad American
+- **Docente:** Prof. Mgtr. Alberto F. Giménez Méndez
 
 ## Descripción
 
